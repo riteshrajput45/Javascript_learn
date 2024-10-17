@@ -18,19 +18,28 @@
 // let Arraynum = ["ritesh","arahul","ravi"]
 // console.log(typeof Arraynum);
 
-let objectnum = {
-     name:"ritesh",
-     age:23
-}
-console.log(typeof objectnum);
+// let objectnum = {
+//      name:"ritesh",
+//      age:23
+// }
+// console.log(typeof objectnum);
 
 
-let add = function(){
-    console.log("jay shree krishna")
-}
-add();
-// console.log(result);
+// let add = function(){
+//     console.log("jay shree krishna")
+// }
+// add();
+// // console.log(result);
 
-console.log(typeof add);
+// console.log(typeof add);
 
 //jo  bi refence type .ke data type he  unka hmesha data tyoe object me aaayega 
+
+
+
+
+//**********************MEMORY TYPE *********************/
+
+//STACK (premitive) , vcopy value milti hain hamee eskiii, hume esme copy value milti hain
+
+// Heap (No premitive Type) //esme hame copy nahi ,milti original value  milti hain 
