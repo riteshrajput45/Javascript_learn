@@ -33,5 +33,5 @@ console.log(typeof Newarray);
 
 const  Slicearray = myArray.slice(1,3)
 console.log("A",Slicearray);
-const  Splicearray = myArray.splice(1,3)
+const  Splicearray = myArray.splice(1,3) 
 console.log("B",Splicearray);
