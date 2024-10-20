@@ -26,7 +26,7 @@ const fbUser = {
 
 // const Marging = Object.assign(fbUser,instaUser)
 // console.log('Marging : ', Marging );
-
+s
 //NOTE me marging ke liye spread oprator ka use krunga jisse aasini se marge ho jayyega (.....)
 
 const obj1 = {a:1,b:2};
@@ -79,5 +79,5 @@ const course ={
        user_name: "ritesh"
 }
 
-const {user_name:Name} = cours;
-console.log('user_name: ', Name);
+const {user_name:Name} = course;
+console.log('user_name: ', user_name);
