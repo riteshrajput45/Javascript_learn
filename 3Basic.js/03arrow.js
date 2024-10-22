@@ -24,9 +24,9 @@
 
 //bht sara window object print hoker aata ;
 
-const milk =()=>{
-    console.log(this);
-}
+// const milk =()=>{
+//     console.log(this);
+// }
 
-milk()
+// milk()
 //this is  run but printed only empaty object 
