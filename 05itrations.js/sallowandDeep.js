@@ -109,14 +109,22 @@ console.log('check2: ', check2);
 //FIXME -  Investigation object in function
 
 
-const user = {
-     useName: "ritesh",
-     age:25,
-     social:function(){
-         console.log("<<<<")
-         console.log("<<<<")
-     }
-     ()
+// const user = {
+//      useName: "ritesh",
+//      age:25,
+//      social:function(){
+//          console.log("<<<<")
+//          console.log("<<<<")
+//      }
+//      ()
      
-}
-console.log(user);
+// }
+// console.log(user);
+
+
+let number = [1,2,3,4,5]
+console.log(number.length)
+// let reverse =[]
+// for(i=4; i<=number.length; i--){
+//      number.push(number[i])
+// }
